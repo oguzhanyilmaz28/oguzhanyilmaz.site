@@ -38,7 +38,7 @@ export default function HomeLayout() {
                     <div className="text-4xl font-medium text-center sm:text-start">
                         Hi 👋 my name is{' '}
                         <span className="text-primary">
-                            Mustafa Kemal Gordesli
+                            Oguzhan Yilmaz
                         </span>
                     </div>
                     <div className="text-4xl font-medium text-center sm:text-start">

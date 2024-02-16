@@ -6,10 +6,10 @@ export default function Footer() {
             Created by
             <Link
                 className="underline text-black dark:text-white ml-1"
-                href="https://github.com/mustafakemalgordesli/mustafagordesli.com.tr"
+                href="https://github.com/oguzhanyilmaz28/oguzhanyilmaz.site"
                 target="_blank"
             >
-                @mustafakemalgordesli
+                @oguzhanyilmaz28
             </Link>
         </div>
     );

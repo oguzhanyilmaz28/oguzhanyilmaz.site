@@ -8,20 +8,18 @@ export default function About() {
                 About <span className="text-primary">ME</span>
             </div>
             <p className="text-gray-700 antialiased text-xl font-light max-w-xl tracking-wider leading-8 dark:text-slate-50 px-2">
-                I am a fourth-year computer engineering student at Balıkesir
-                University, driven by an investigative mindset and a strong
-                commitment to continuous improvement. While I am still in the
-                early stages of mastering the English language, I am dedicated
-                to the learning process. My current focus lies in full stack web
-                development, where I utilize technologies such as C#, .NET Core,
-                JavaScript, Next.js and SQL Server. I predominantly craft my
-                projects using the powerful combination of .NET and React.
+            I am a 3rd year computer engineering student at Balikesir University.
+            I have an investigative and determined personality.
+            I always try to improve myself and learn new things in the field of software.
+            I have an intermediate level English.I am interested in back-end and front-end development.
+            I have good knowledge of intermediate C#,Python and SQL.
+            In additipn,I develop projects using C# ,.NET Core,Html,Css,JavaScript,Php and Python.
             </p>
             <div className="gap-3 flex flex-col sm:flex-row">
                 <ViewResumeBtn />
                 <a
-                    href="/mustafa-gordesli-cv.pdf"
-                    download="mustafa-gordesli-cv.pdf"
+                    href="/oguzhan-yilmaz-cv.pdf"
+                    download="oguzhan-yilmaz-cv.pdf"
                     className="py-2 px-10 bg-transparent border border-primary text-primary hover:text-white hover:bg-primary font-medium text-lg"
                 >
                     Download CV

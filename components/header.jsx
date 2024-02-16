@@ -222,8 +222,8 @@ function LogoLink({ changeActiveMenu }) {
             }}
             scrollsmooth
         >
-            <div className="sm:hidden w-[65px]">M. K. G.</div>
-            <span className="hidden sm:block">Mustafa K. Gordesli</span>
+            <div className="sm:hidden w-[65px]">O. Y.</div>
+            <span className="hidden sm:block">Oguzhan Yilmaz</span>
         </Link>
     );
 }

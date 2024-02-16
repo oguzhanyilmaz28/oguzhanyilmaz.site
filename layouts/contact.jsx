@@ -37,7 +37,7 @@ export default function Contact() {
                                     Location
                                 </h4>
                                 <p className="text-body-color text-base">
-                                    Balıkesir / Türkiye
+                                    İstanbul / Türkiye
                                 </p>
                             </div>
                         </div>
@@ -59,7 +59,7 @@ export default function Contact() {
                                     Phone Number
                                 </h4>
                                 <p className="text-body-color text-base">
-                                    (+90)541 830 6845
+                                    (+90)541 329 99 28
                                 </p>
                             </div>
                         </div>
@@ -82,7 +82,7 @@ export default function Contact() {
                                     href="mailto:me@mustafagordesli.com.tr"
                                     className="text-body-color text-base hover:text-blue-500"
                                 >
-                                    me@mustafagordesli.com.tr
+                                    oguzylmz2834@gmail.com
                                 </a>
                             </div>
                         </div>
