@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function ExperiencesTimeline() {
     return (
         <div className="w-full md:w-1/2 flex flex-col mx-auto md:mx-0 md:items-start md:justify-start md:pr-2 border-b pb-5 md:pb-0 md:border-0">
