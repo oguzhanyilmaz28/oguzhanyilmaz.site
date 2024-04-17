@@ -12,7 +12,7 @@ export default function ExperiencesTimeline() {
                     </time>
 
                     <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-                            Erasmus+ Internship
+                        Baun Artificial Intelligence Community
                     </h3>
                     <h5 className="font-medium text-base text-gray-700 dark:text-gray-300">
                         Volunteer Software Engineer
