@@ -19,7 +19,7 @@ export default function ExperiencesTimeline() {
                         projects with Python & Java.
                     </p>
                 </li>
-                {/* <li className="px-2">
+               {/*  <li className="px-2">
                     <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                     <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
                         Jun 2022 - Aug 2022 | 2 month
@@ -36,13 +36,13 @@ export default function ExperiencesTimeline() {
                     </h3>
                     <h5 className="font-medium text-base text-gray-700 dark:text-gray-300">
                         Software Engineer Intern
-                    </h5> */}
+                    </h5>
                     <p className="text-base font-normal text-gray-500 dark:text-gray-400">
                         {/* All of the pages and components are first designed in
                         Figma and we keep a parity between the two versions even
                         as we update the project. */}
                     </p>
-                </li>
+                </li> */}
             </ol>
         </div>
     );
