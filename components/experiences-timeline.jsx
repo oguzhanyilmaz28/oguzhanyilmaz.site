@@ -16,7 +16,8 @@ export default function ExperiencesTimeline() {
                         Volunteer Software Engineer
                     </h5>
                     <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-                        I implemented various artificial intelligence projects with Python & Java.
+                        I implemented various artificial intelligence
+                        projects with Python & Java.
                     </p>
                 </li>
                {/*  <li className="mb-4 px-2">
